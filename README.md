@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1266-minimum-time-visiting-all-points) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1266-minimum-time-visiting-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
