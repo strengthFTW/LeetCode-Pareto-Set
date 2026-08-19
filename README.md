@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0268-missing-number) |
+| [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0015-3sum) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
