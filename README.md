@@ -13,6 +13,7 @@
 | [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0015-3sum](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1095-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/strengthFTW/LeetCode-Pareto-Set/tree/master/1921-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
